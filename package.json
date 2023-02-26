@@ -12,19 +12,5 @@
     "apexcharts": "^3.1.0",
     "react-apexcharts": "^1.1.0",
     "isnumber": "^1.0.0"
-  },
-  "pkg": {
-    "scripts": [
-      "dist/**/*.js",
-    ],
-    "assets": [
-      "config.default.json",
-      "dist",
-      "help"
-    ]
-  },
-  "publishConfig": {
-    "registry": "https://registry.npmjs.org/",
-    "access": "public"
   }
 }
