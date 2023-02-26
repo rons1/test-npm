@@ -12,6 +12,6 @@
     "apexcharts": "^3.1.0",
     "react-apexcharts": "^1.1.0",
     "isnumber": "^1.0.0",
-    "npm": "^6.10.1"
+    "npm": "^7.0.0"
   }
 }
