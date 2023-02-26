@@ -20,6 +20,6 @@
     }
   },
   "leastVulnerablePackageSettings": {
-    "enabled": "false"   
+    "enabled": "true"   
   }
 }
