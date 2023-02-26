@@ -2,36 +2,15 @@
   "name": "test-npm",
   "version": "1.0.0-monorepo",
   "description": "bla",
-  "files": [
-    "help/cli-commands",
-    "dist",
-    "bin",
-    "pysrc",
-    "config.default.json",
-    "SECURITY.md",
-    "LICENSE",
-    "README.md"
-  ],
-  "directories": {
-    "lib": "src",
-    "test": "test",
-    "doc": "help/cli-commands"
-  },
-  "engines": {
-    "node": ">=12"
-  },
-  "workspaces": [
-    "packages/*"
-  ],
   "dependencies": {
-    "dotenv": "^8.2.0",
-    "express": "^4.17.1",
-    "graphql": "^15.5.2",
+    "dotenv": "^8.1.0",
+    "express": "^4.1.1",
+    "graphql": "^15.1.2",
     "react-collapse": "^5.1.0",
-    "qs": "^6.10.1",
+    "qs": "^6.1.1",
     "virtualizedtableforantd4": "^1.1.2",
-    "apexcharts": "^3.37.0",
-    "react-apexcharts": "^1.4.0",
+    "apexcharts": "^3.1.0",
+    "react-apexcharts": "^1.1.0",
     "isnumber": "^1.0.0"
   },
   "pkg": {
