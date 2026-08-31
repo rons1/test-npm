@@ -7,7 +7,7 @@
     "express": "^3.1.0",
     "graphql": "^15.1.2",
     "react-collapse": "^5.1.0",
-    "qs": "^6.1.1",
+    "qs": "^6.16.0",
     "virtualizedtableforantd4": "^1.1.2",
     "apexcharts": "^3.1.0",
     "react-apexcharts": "^1.1.0",
